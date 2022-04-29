@@ -42,8 +42,10 @@
  * dickens_THETA.csv: Dickens THETA table from topic modeling
  * dickens_PHI.csv: Dickens PHI table from topic modeling
  * dickens_TOPIC.csv: Dickens TOPIC table from topic modeling
+ * dickens_SENTS.csv: Dickens sentences table from word embeddings
  * dickens_W2V.csv: Dickens word2vec table from word embeddings
  * dickens_COORDS.csv: Dickens COORDS table from word embeddings
+
  * twain_pre_LIB.csv: Twain LIB table with work title, regex, year and decade published, number of chapters, etc.
  * twain_pre_CORPUS.csv: Twain CORPUS table with OHCO book, chapter, paragraph, sentence, token and columns POS (Part of Speech), token_str, term_str
  * twain_pre_VOCAB.csv: Twain VOCAB table with term_str as the index and cols term rank, number of characters, maximum part of speech, whether the term is a stop word, stems of the terms, etc.
@@ -54,6 +56,7 @@
  * twain_THETA.csv: Twain THETA table from topic modeling
  * twain_PHI.csv: Twain PHI table from topic modeling
  * twain_TOPIC.csv: Twain TOPIC table from topic modeling
+ * Twain_SENTS.csv: Twain sentences table from word embeddings
  * twain_W2V.csv: Twain word2vec table from word embeddings
  * twain_COORDS.csv: Twain COORDS table from word embeddings
 
@@ -67,6 +70,7 @@
  * full_THETA.csv: full corpus THETA table from topic modeling
  * full_PHI.csv: full corpus PHI table from topic modeling
  * full_TOPIC.csv: full corpus TOPIC table from topic modeling
+ * full_SENTS.csv: full corpus sentences table from word embeddings
  * full_W2V.csv: full corpus word2vec table from word embeddings
  * full_COORDS.csv: full corpus COORDS table from word embeddings
  * full_COMBO.csv: full corpus joined CORPUS and sentiment lexicon
