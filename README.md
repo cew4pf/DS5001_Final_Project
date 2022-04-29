@@ -38,6 +38,7 @@
  * dickens_pre_CORPUS.csv: Dickens CORPUS table with OHCO book, chapter, paragraph, sentence, token and columns POS (Part of Speech), token_str, term_str
  * dickens_pre_VOCAB.csv: Dickens VOCAB table with term_str as the index and cols term rank, number of characters, maximum part of speech, whether the term is a stop word, stems of the terms, etc.
  * dickens_BOW.csv: Dickens BOW (Bag of Words)
+ * dickens_TFIDF.csv: Dickens TFIDF (Term Frequency Inverse Document Frequency)
  * dickens_LOADINGS.csv: Dickens LOADINGS from PCA
  * dickens_DCM.csv: Dickens DCM from PCA
  * dickens_COMPINF.csv: Dickens COMPINF from PCA
@@ -53,6 +54,7 @@
  * twain_pre_CORPUS.csv: Twain CORPUS table with OHCO book, chapter, paragraph, sentence, token and columns POS (Part of Speech), token_str, term_str
  * twain_pre_VOCAB.csv: Twain VOCAB table with term_str as the index and cols term rank, number of characters, maximum part of speech, whether the term is a stop word, stems of the terms, etc.
  * twain_BOW.csv: Twain BOW (Bag of Words)
+ * twain_TFIDF.csv: Twain TFIDF (Term Frequency Inverse Document Frequency)
  * twain_LOADINGS.csv: Twain LOADINGS from PCA
  * twain_DCM.csv: Twain DCM from PCA
  * twain_COMPINF.csv: Twain COMPINF from PCA
@@ -68,6 +70,7 @@
  * full_CORPUS.csv: full corpus CORPUS table with OHCO book, chapter, paragraph, sentence, token and columns POS (Part of Speech), token_str, term_str
  * full_pre_VOCAB.csv: full corpus VOCAB table with term_str as the index and cols term rank, number of characters, maximum part of speech, whether the term is a stop words, stems of the terms, etc.
  * full_BOW.csv: full corpus BOW (Bag of Words)
+ * full_TFIDF.csv: full corpus TFIDF (Term Frequency Inverse Document Frequency)
  * full_LOADINGS.csv: full corpus LOADINGS from PCA
  * full_DCM.csv: full corpus DCM from PCA
  * full_COMPINF.csv: full corpus COMPINF from PCA
