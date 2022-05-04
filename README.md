@@ -5,15 +5,28 @@
 ### **Cecily Wolfe (cew4pf)**
 
 
-### **Files**
+### **Document Overview**:
+A description of each of the files found on this GitHub repository and/or on UVA Box. The cases in which files are hosted on only one or the other have been specified below. However, all of the elements necessary to recreate the original analysis are located on GitHub.
 
-**Purpose**: A description of each of the files found on this GitHub repository and/or on UVA Box. The cases in which files are hosted on only one or the other have been specified below. However, all of the elements necessary to recreate the original analysis are located on GitHub.
+### **Provenance**:
+The 50 works of Charles Dickens (1812-1870) and 45 works of Mark Twain, i.e., Samuel Clemens (1835-1910), were compiled from Project Gutenberg, an online repository of ebooks in the public domain. The indices of the works for each author available on Project Gutenberg ([Dickens](https://www.gutenberg.org/ebooks/58157), [Twain](https://www.gutenberg.org/files/28803/28803-h/28803-h.htm)) were used to ensure that works were not duplicated and that, as needed, duplicated pieces in certain anthologies were removed from all sources except one.
+
+### **Location**:
+Link to the source files in UVA Box: https://virginia.box.com/s/tgivlxgwspwp55cwmpj3mwj6mi5ee33c
+
+### **Description**:
+The general subject matter of the corpus is the works of Charles Dickens and Mark Twain, including novels, short stories, speeches, essays, letters, poetry, etc., with the purpose of comparing two of the most well-known and widely read authors in British and American literature. Although these two were not quite contemporaries, both had outsized influence on the literary profession during the lifetimes - that is, in the nineteenth century - and continue to enjoy widespread fame today. As such, the question as to whether or not the works of these authors share certain key attributes remains a relevant and interesting one.
+
+
+### **Files**:
 
 **DS_5001_Project_Sources.pdf**: complete list of sources (from class and online) used for coding and research purposes
 
-**Dickens**: folder containing 50 works of Dickens curated from [Project Gutenberg](https://www.gutenberg.org/ebooks/58157)
+**Dickens_Twain_Corpus.zip**: compressed version of the Dickens and Twain source files (i.e., the Dickens and Twain folders)
 
-**Twain**: folder containing 45 works of Twain curated from [Project Gutenberg](https://www.gutenberg.org/files/28803/28803-h/28803-h.htm)
+**Dickens**: folder containing 50 works of Dickens curated from [Project Gutenberg](https://www.gutenberg.org/ebooks/58157) in `.txt` format
+
+**Twain**: folder containing 45 works of Twain curated from [Project Gutenberg](https://www.gutenberg.org/files/28803/28803-h/28803-h.htm) in `.txt` format
 
 **Notebooks**: Jupyter notebooks for analysis
  * **dickens_preprocess.ipynb**: preprocessing Dickens works into LIB, CORPUS, VOCAB
