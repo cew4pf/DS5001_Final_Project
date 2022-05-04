@@ -23,6 +23,8 @@ The general subject matter of the corpus is the works of Charles Dickens and Mar
 
 **cew4pf_DS_5001_Final_Paper.pdf**: final report interpreting the results of the work completed with this corpus
 
+**manifest.pdf**: manifest document (i.e., PDF of the README file)
+
 **Report_Manifest_Notebook_PDFs.zip**: compressed version of the final report, manifest document (i.e., this README file), and the PDF versions of Jupyter notebooks (i.e., cew4pf_DS_5001_Final_Paper.pdf and PDF_Files folder)
 
 **DS_5001_Project_Sources.pdf**: complete list of sources (from class and online) used for coding and research purposes
