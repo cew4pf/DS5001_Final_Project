@@ -22,6 +22,8 @@ The general subject matter of the corpus is the works of Charles Dickens and Mar
 
 **cew4pf_DS_5001_Final_Paper.pdf**: final report interpreting the results of the work completed with this corpus
 
+**Report_Notebook_PDFs.zip**: compressed version of the final report and the PDF versions of Jupyter notebooks (i.e., cew4pf_DS_5001_Final_Paper.pdf and PDF_Files folder)
+
 **DS_5001_Project_Sources.pdf**: complete list of sources (from class and online) used for coding and research purposes
 
 **Dickens_Twain_Corpus.zip**: compressed version of the Dickens and Twain source files (i.e., the Dickens and Twain folders)
