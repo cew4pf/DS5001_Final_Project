@@ -35,6 +35,8 @@
 
 **HTML_files**: HTML versions of Jupyter notebooks
 
+**salex**: folder with CSVs containing various lexicons for sentiment analysis
+
 **Data**: folder with CSVs generated from text analysis $\rightarrow$ **NOTE THAT THIS IS HOSTED ON UVA BOX**
 
 *Dickens*
