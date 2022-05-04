@@ -12,7 +12,8 @@ A description of each of the files found on this GitHub repository and/or on UVA
 The 50 works of Charles Dickens (1812-1870) and 45 works of Mark Twain, i.e., Samuel Clemens (1835-1910), were compiled from Project Gutenberg, an online repository of ebooks in the public domain. The indices of the works for each author available on Project Gutenberg ([Dickens](https://www.gutenberg.org/ebooks/58157), [Twain](https://www.gutenberg.org/files/28803/28803-h/28803-h.htm)) were used to ensure that works were not duplicated and that, as needed, duplicated pieces in certain anthologies were removed from all sources except one.
 
 ### **Location**:
-Link to the source files in UVA Box: https://virginia.box.com/s/ou44vr9j6t2i1uxxa8fogg814pxzcdqt
+Link to compressed source files on UVA Box: https://virginia.box.com/s/pkni5kmn9o8ngrz0qwfgqyu9arl45r31
+Link to data tables (i.e., LIB, CORPUS, VOCAB, etc.) on UVA Box: https://virginia.box.com/s/ou44vr9j6t2i1uxxa8fogg814pxzcdqt
 
 ### **Description**:
 The general subject matter of the corpus is the works of Charles Dickens and Mark Twain, including novels, short stories, speeches, essays, letters, poetry, etc., with the purpose of comparing two of the most well-known and widely read authors in British and American literature. Although these two were not quite contemporaries, both had outsized influence on the literary profession during the lifetimes - that is, in the nineteenth century - and continue to enjoy widespread fame today. As such, the question as to whether or not the works of these authors share certain key attributes remains a relevant and interesting one.
