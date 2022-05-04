@@ -7,6 +7,8 @@
 
 ### **Files**
 
+**Purpose**: A description of each of the files found on this GitHub repository and/or on UVA Box. The cases in which files are hosted on only one or the other have been specified below. However, all of the elements necessary to recreate the original analysis are located on GitHub.
+
 **DS_5001_Project_Sources.pdf**: complete list of sources (from class and online) used for coding and research purposes
 
 **Dickens**: folder containing 50 works of Dickens curated from [Project Gutenberg](https://www.gutenberg.org/ebooks/58157)
@@ -33,7 +35,7 @@
 
 **HTML_files**: HTML versions of Jupyter notebooks
 
-**Data**: folder with CSVs generated from text analysis
+**Data**: folder with CSVs generated from text analysis $\rightarrow$ **NOTE THAT THIS IS HOSTED ON UVA BOX**
 
 *Dickens*
  * **dickens_pre_LIB.csv**: Dickens LIB table with work title, regex, year and decade published, number of chapters, etc.
