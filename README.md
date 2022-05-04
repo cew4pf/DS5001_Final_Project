@@ -57,7 +57,7 @@ The general subject matter of the corpus is the works of Charles Dickens and Mar
 
 **salex**: folder with CSVs containing various lexicons for sentiment analysis
 
-**Data**: folder with CSVs generated from text analysis $\rightarrow$ **NOTE THAT THIS IS HOSTED ON UVA BOX**
+**Data_Tables**: folder with CSVs generated from text analysis $\rightarrow$ **NOTE THAT THIS IS HOSTED ON UVA BOX**
 
 *Dickens*
  * **dickens_pre_LIB.csv**: Dickens LIB table with work title, regex, year and decade published, number of chapters, etc.
