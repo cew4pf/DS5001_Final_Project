@@ -48,7 +48,9 @@ The general subject matter of the corpus is the works of Charles Dickens and Mar
  * **textparser.py**: functions to parse a list of works and associated regex patterns to process the works into chuncks by work, chapter, paragraph, sentence, token
  * **topicmodel.py**: function to create a topic model and produce the associated tables (THETA, PHI, TOPIC)
 
-**HTML_files**: HTML versions of Jupyter notebooks
+**HTML_Files**: HTML versions of Jupyter notebooks
+
+**PDF_Files**: PDF versions of Jupyter notebooks
 
 **salex**: folder with CSVs containing various lexicons for sentiment analysis
 
