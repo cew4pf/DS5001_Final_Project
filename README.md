@@ -1,6 +1,6 @@
 # **DS5001: Exploratory Text Analytics (ETA) Final Project - Spring 2022**
 
-## **Using Text Analytics to Explore the Works of Charles Dickens and Mark Twain**
+## **Manifest Document for Using Text Analytics to Explore the Works of Charles Dickens and Mark Twain**
 
 ### **Cecily Wolfe (cew4pf)**
 
